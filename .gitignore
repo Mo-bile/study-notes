@@ -1,0 +1,23 @@
+# Obsidian 설정
+.obsidian/
+.DS_Store
+
+# 이미지
+*.png
+*.jpg
+*.jpeg
+
+# 학습 폴더만 올림 - 나머지 전부 제외
+AX/
+Braze/
+C2C 기본/
+deprecated/
+개발 방향성/
+송금/
+이벤트/
+이슈처리/
+인수인계/
+채널톡 프로젝트/
+Untitled.base
+Screenshot*
+.omc/
